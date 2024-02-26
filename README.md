@@ -1,2 +1,2 @@
 # Delta-demo
-Delta Project with js
+Delta Project with js.
